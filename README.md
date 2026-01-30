@@ -32,7 +32,6 @@ This repository contains a series of Python-based data analysis projects focused
   - Understanding the concerns and behaviors of different customer "types."
 - **Tools:** `Pandas`, `Matplotlib`, `Seaborn`.
 
----
 
 ## 🛠️ Installation & Setup
 
